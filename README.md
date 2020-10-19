@@ -24,7 +24,7 @@ Optional: If you want to run on the device, you will need to select a team and c
 
 ## Pods Used
 
-Alamofire - https://github.com/Alamofire/Alamofire
+Alamofire - https://github.com/Alamofire/Alamofire  
 AlamofireImage - https://github.com/Alamofire/AlamofireImage
 
 The pods were integrated with Swift Package and should be downloaded automatically when you start the project
